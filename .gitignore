@@ -1,0 +1,41 @@
+# Flutter/Dart related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.dart.js
+*.map
+*.js.deps
+*.js.tar.gz
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# macOS related
+.DS_Store
+
+# Android related
+local.properties
+*.keystore
+
+# iOS related
+Pods/
+Podfile.lock
+Flutter/Flutter.podspec
+Flutter/ephemeral/
+
+# Miscellaneous
+*.log
+*.lock
+*.tmp
+*.swp
+*.swo
+*.orig
+*.bak

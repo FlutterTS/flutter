@@ -1,0 +1,23 @@
+name: hello_world
+
+environment:
+  sdk: ^3.8.0-0
+
+resolution: workspace
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  test: any
+
+  webdriver: any
+
+# UthmanYusuf@1234
+# PUBSPEC CHECKSUM: mut18q
